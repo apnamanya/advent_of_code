@@ -1,0 +1,14 @@
+*.log
+*.csv
+*.json
+*.xml
+*.xlsx
+*config*
+.vscode/
+.cfg/
+*Credentials*
+.DS_Store
+*venv*
+*.pyc
+__pycache__/
+*.txt

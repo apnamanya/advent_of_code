@@ -7,7 +7,7 @@ def part1_soln(entries):
 
 def part2_soln(entries, window_size):
     window_sums=[]
-    for ind, entry in enumerate(entries[:-2]): # Top before the last 2
+    for ind, entry in enumerate(entries[:-(window_size-1)]): # Top before the last 2
         window_sums.append(sum(entries[window_size-3:window_size]))
         window_size+=1
     return part1_soln(window_sums)

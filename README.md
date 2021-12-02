@@ -9,5 +9,5 @@ get_input -d <day> -y year
 ```
 5. Go code away and get the solutions submitted.\
 \
-**Note**: The day inputs are downloaded in the path from which you run the code as year/input_day{day}.txt (e.g 2021/nput_day2.txt). It creates the year dir if it does not already exist.
+**Note**: The day inputs are downloaded in the path from which you run the code as `year/input_day{day}.txt` (e.g 2021/nput_day2.txt). It creates the year dir if it does not already exist.
 

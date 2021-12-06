@@ -30,7 +30,7 @@ def part2_soln(entries):
     return postion*depth
 
 def main():
-    d1_file= open("./input_day2.txt", 'r')
+    d1_file= open("input_day2.txt", 'r')
     original_entries= [i for i in d1_file.readlines()]
 
     print(part1_soln(original_entries))

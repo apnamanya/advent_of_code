@@ -1,4 +1,4 @@
-## Advent of Code 2021.
+## Advent of Code Events.
 Writing all this so I don't forget, if it helps someone else great. Here are the steps
 1. Follow this [resource](https://github.com/wimglenn/advent-of-code-wim/issues/1) on how  to get your AOC cookie session key
 2. Save the session key in a session.txt file. Make sure you do not commit this file to your github as it contains a secret. 
